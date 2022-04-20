@@ -1,0 +1,29 @@
+Ritchie:Colaboró en el diseño y desarrollo de los sistemas operativos Multics y Unix, así como el desarrollo de varios lenguajes de programación como el C, tema sobre el cual escribió un célebre clásico de las ciencias de la computación junto a Brian Wilson Kernighan: El lenguaje de programación C.
+
+Recibió el Premio Turing de 1983 por su desarrollo de la teoría de sistemas operativos genéricos y su implementación en la forma del sistema Unix. En 1998 le fue concedida la Medalla Nacional de Tecnología de los Estados Unidos de América. Se jubiló en 2007, siendo todavía entonces el jefe del departamento de investigación en software de sistemas de Alcatel-Lucent.
+
+Paradigma:Los paradigmas de programación son los principios fundamentales de la programación de software. Lo más fácil es planteárselos como estilos de programación fundamentalmente diferenciados que, en consecuencia, generan códigos software que están estructurados de forma distinta.
+
+C++: es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido.
+
+Boson de Higgs:o partícula de Higgs es una partícula fundamental propuesta en el modelo estándar de física de partículas. Recibe su nombre en honor a Peter Higgs, quien, junto con otros, propuso en 1964 el hoy llamado mecanismo de Higgs para explicar el origen de la masa de las partículas elementales. 
+
+Procesador 486: el microprocesador 486DX fue el primer procesador con más de 1 millón de transistores. El i486 era de 32 bits y funcionaba con relojes de hasta 100 MHz. Este procesador se comercializó hasta mediados de los años 90.29 ene 2018
+
+Quake 1:  es un videojuego de disparos en primera persona publicado por id Software el 22 de junio de 1996
+
+F#: es un lenguaje de programación multiparadigma de código abierto, ​ para la plataforma .NET, que conjunta la programación funcional con las disciplinas imperativa y orientada a objetos. Es una variante del lenguaje de programación ML y es compatible con la implementación Objective Caml.
+
+3dfx: Interactive fue una compañía especializada en la manufactura de procesadores gráficos 3D y, más tarde, tarjetas gráficas para uso en PC. Fue la gran dominante en la época inicial de las tarjetas aceleradoras 3D, a finales de los años 1990, especialmente en los años 1997 y 1998.
+
+Nvidia:  Corporation es una empresa multinacional especializada en el desarrollo de unidades de procesamiento gráfico y tecnologías de circuitos integrados para estaciones de trabajo, ordenadores personales y dispositivos móviles.
+
+Matrox: Electronic Systems Ltd es una empresa canadiense que produce chips gráficos y componentes para PC. Fue fundada por Lorne Trottier and Branko Matic. El nombre viene del apellido de los fundadores: "Ma" de Matic y "Tro" de Trottier combinado con la 'x' de excelencia. 
+
+Spintronica: La espintrónica es un tipo de interfaz entre la física del magnetismo y la electrónica. Este nuevo tipo de electrónica trabaja no solo con la carga de los electrones sino también con su propiedad cuántica fundamental: el espín.
+
+.Net: Es una plataforma de aplicaciones que permite la creación y ejecución de servicios web y aplicaciones de Internet. En la plataforma de desarrollo se pueden utilizar una serie de lenguajes, implementaciones, herramientas y bibliotecas para el desarrollo de las aplicaciones.
+
+Superficie spline: La herramienta Spline utiliza un método de interpolación que estima valores usando una función matemática que minimiza la curvatura general de la superficie, lo que resulta en una superficie suave que pasa exactamente por los puntos de entrada.
+
+
